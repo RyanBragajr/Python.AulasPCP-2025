@@ -1,6 +1,6 @@
 # Python: Aulas e Exercícios de PCP (2025)
 
-Registro das aulas, listas de exercícios, checkpoints e desafios da matéria de **PCP (Python)** que cursei em 2025 na FIAP, com o **Prof. Alexandre Russi**.
+Registro das aulas, listas de exercícios, checkpoints e desafios da matéria de **PCP (Python)** que cursei em 2025 na FIAP, na turma **1CCPW**, com o **Prof. Alexandre Russi**.
 
 O professor deixava o material no repositório dele para a turma acompanhar as aulas. Como esse repositório não está mais disponível, guardei aqui o que fiz ao longo do ano para não perder o registro. Foi uma matéria muito boa e um professor que fez diferença. Obrigado, professor! 🙌
 
