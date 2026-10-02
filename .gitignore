@@ -1,0 +1,11 @@
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configurações do PyCharm
+.idea/
+
+# Dados pessoais dos colegas de grupo (não publicar)
+integrantes.txt
