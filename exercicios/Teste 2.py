@@ -14,4 +14,4 @@ numeros = gerador_pseudo_aleatorio(seed, n=quantidade)
 
 print("Números pseudo-aleatórios:")
 for i, num in enumerate(numeros):
-    print(f"{i+1}: {num}")w
+    print(f"{i+1}: {num}")
